@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-
 [🥇 Most Active GitHub user in Turkey](https://commits.top/turkey.html)
 
 
 ### Github Stats
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=avnikasikci&show_icons=true&theme=gruvbox">
+<!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=avnikasikci&show_icons=true&theme=gruvbox"> -->
 
-### Github Langues
-<img  align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact">
+<!-- <img  align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=avnikasikci&show_icons=true&theme=gruvbox)](https://github.com/avnikasikci/github-readme-stats)
+### Github languages
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact)](https://github.com/avnikasikci/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact)](https://github.com/avnikasikci/github-readme-stats)
 
 
 ### 🌍 Kişisel Web Sitesi
 
 - [🙋‍♂️ My Web Site](https://avnikasikci.studio/#/)
-> 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
+<!-- > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir. -->
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
@@ -55,20 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
-<!--
-**avnikasikci/avnikasikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
