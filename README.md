@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [🥇 Most Active GitHub user in Turkey](https://commits.top/turkey.html)
 
 
@@ -21,8 +20,8 @@
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
   <br>
-
-  - 🐍 Python: websocket_client, request, mouse, keyboard, instabot, pynput, logger, colorlog, subprocess, pathlib, os, platform, selenium, threding, oop, CI, pytest, unittest, doctest, package, ahk-wrapper
+  - 🌄 Dotnet: WebApi,modernize,AngularJS,Testing,Unit,WebApp  
+  - 🐍 Python: analytics,websocket_client, request, mouse, keyboard, instabot, pynput, logger, colorlog, subprocess, pathlib, os, platform, selenium, threding, oop, CI, pytest, unittest, doctest, package, ahk-wrapper
   - 👨‍💻 Autohotkey: window automation (show, hide, pin, transparent), clipboard, hotkey, hotstring, menubar, icon
   - ☕ Java / Kotlin: Thread, Listeners, JavaFX, RoomDB, Broadcast, Intent, Activity, Events, RcycleView, CardView
   - 🌃 VS Code: Theme extension, shortcuts, syntax extensions
@@ -42,7 +41,7 @@
 </details>
 
 
-**avnikasikci/avnikasikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **avnikasikci/avnikasikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -53,5 +52,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
+
+
 
