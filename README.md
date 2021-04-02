@@ -50,9 +50,13 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 <code><img height="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 
-<!-- [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+<!--
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) -->
 ---
+
+### Github languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact)](https://github.com/avnikasikci/github-readme-stats)
 
 ### Hi there 👋
 
@@ -63,12 +67,10 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 
 <!-- <img  align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact"> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=avnikasikci&show_icons=true&theme=gruvbox)](https://github.com/avnikasikci/github-readme-stats) -->
-
-### Github languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact)](https://github.com/avnikasikci/github-readme-stats)
+---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avnikasikci)
+---
 
 ### 📫 &nbsp; You can reach me
 
