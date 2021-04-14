@@ -7,13 +7,14 @@
 [![GitHub Follow Badge](https://img.shields.io/github/followers/avnikasikci?label=follow&style=social)](https://github.com/avnikasikci) 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avnikasikci01/)](https://www.linkedin.com/in/avnikasikci01/)-->
 
-[![GitHub Follow Badge](https://img.shields.io/badge/leetcode-red)](https://leetcode.com/avnikasikci/)
+<!--[![GitHub Follow Badge](https://img.shields.io/badge/leetcode-red)](https://leetcode.com/avnikasikci/)-->
+<a href="https://stackoverflow.com/users/12173540/avni-kasikci"><img src="https://stackoverflow.com/users/flair/12173540.png" width="208" height="58" alt="profile for Avni Kaşıkçı at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Avni at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> <br>
+
 ### 📫 &nbsp; You can reach me
 [![Linkedin: AvniKasikci](https://img.shields.io/badge/Avni%20Kasıkcı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avnikasikci01/)](https://www.linkedin.com/in/avnikasikci01/)
 [![Twitter: AvniKasikci](https://img.shields.io/twitter/url?label=Avni%20Kasikci&style=social&url=https%3A%2F%2Ftwitter.com%2Favnikasikci)](https://twitter.com/avni_kasikci)
 [![Gmail Badge](https://img.shields.io/badge/Avni%20Kasikci-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avni.kasikci.01@gmail.com)](mailto:avni.kasikci.01@gmail.com)
 
-<a href="https://stackoverflow.com/users/12173540/avni-kasikci"><img src="https://stackoverflow.com/users/flair/12173540.png" width="208" height="58" alt="profile for Avni Kaşıkçı at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Avni at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> <br>
 
 Linus Torvalds: "Talk is cheap. Show me the code."
 
