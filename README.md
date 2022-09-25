@@ -138,9 +138,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://twitter.com/avnikasikci" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a>
-<a href="https://linkedin.com/in/avnikasikci01" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
+<a href="https://www.linkedin.com/in/avnikasikci/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
 <a target="_blank" href="mailto:avni.kasikci.01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
-<a href="https://www.instagram.com/avni.kasikci.01/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a>
+<a href="https://www.instagram.com/avniikasikci/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a>
 <a href="https://medium.com/@avnikasikci" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <a href="https://dev.to/avnikasikci" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
 <a href="https://avnikasikci.com/" target="blank"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://avnikasikci.com/" height=25 /></a>
