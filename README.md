@@ -12,7 +12,7 @@
 
 ### 📫 &nbsp; You can reach me
 [![Linkedin: AvniKasikci](https://img.shields.io/badge/Avni%20Kasıkcı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avnikasikci01/)](https://www.linkedin.com/in/avnikasikci01/)
-[![Twitter: AvniKasikci](https://img.shields.io/twitter/url?label=Avni%20Kasikci&style=social&url=https%3A%2F%2Ftwitter.com%2Favnikasikci)](https://twitter.com/avni_kasikci)
+[![Twitter: AvniKasikci](https://img.shields.io/twitter/url?label=Avni%20Kasikci&style=social&url=https%3A%2F%2Ftwitter.com%2Favnikasikci)](https://twitter.com/avniikasikci)
 [![Gmail Badge](https://img.shields.io/badge/Avni%20Kasikci-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avni.kasikci.01@gmail.com)](mailto:avni.kasikci.01@gmail.com)
 
 
@@ -21,16 +21,54 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 ### I ❤️ Clean Coding
 
 ![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
+![Net 6](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 ![Asp.NET MVC](https://img.shields.io/badge/C%23-Asp.Net%20MVC-blue)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
-![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
+
+
 
 ### I'm interested in Languages and Tools
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
+####  Backend Framework
+![Flask](https://img.shields.io/badge/flask-%230175C2.svg?&style=flat&logo=flask&logoColor=white)
+![SprintBoot](https://img.shields.io/badge/springboot-%230175C2.svg?&style=flat&logo=springboot&logoColor=green)
+![Express.js](https://img.shields.io/badge/Express.js-%230175C2.svg?&style=flat&logo=Express&logoColor=green)
+![Nest.js](https://img.shields.io/badge/Nest.js-%230175C2.svg?&style=flat&logo=Nest&logoColor=green)
+####  Frontend Framework
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-35495E?style=flat&logo=next.js&logoColor=fff)
+![Flutter](https://img.shields.io/badge/flutter-35495E?style=flat&logo=flutter&logoColor=fff)
+
+#### Database tools
+
+![Mssql](https://img.shields.io/badge/Mssql-35495E?style=flat&logo=Mssql&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-35495E?style=flat&logo=Mysql&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-35495E?style=flat&logo=Mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-35495E?style=flat&logo=Oracle&logoColor=white)
+![Postgress](https://img.shields.io/badge/Postgress-35495E?style=flat&logo=Postgress&logoColor=white)
+
+#### Other tools
+
+![Docker](https://img.shields.io/badge/Docker-35495E?style=flat&logo=Docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-35495E?style=flat&logo=Azure&logoColor=white)
+![TFS](https://img.shields.io/badge/tfs-35495E?style=flat&logo=tfs&logoColor=white)
+![Git](https://img.shields.io/badge/git-35495E?style=flat&logo=git&logoColor=white)
+
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -49,9 +87,6 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/520px-GitLab_Logo.svg.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code>
 <code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code>
@@ -64,7 +99,7 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 
 ### Github languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact)](https://github.com/avnikasikci/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=avnikasikci&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
 ### Hi there 👋
 
@@ -110,6 +145,8 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 
 </details>
 
+
+
 <!-- **avnikasikci/avnikasikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -137,7 +174,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-<a href="https://twitter.com/avnikasikci" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a>
+<a href="https://twitter.com/avniikasikci" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a>
 <a href="https://www.linkedin.com/in/avnikasikci/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
 <a target="_blank" href="mailto:avni.kasikci.01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
 <a href="https://www.instagram.com/avniikasikci/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a>
